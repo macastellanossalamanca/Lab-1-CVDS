@@ -81,5 +81,5 @@ main()
 Tutoriales
 -----
 
->![Main](Main.png)
->![Remote](Remote.png)
+>![Main](Main.jpg)
+>![Remote](Remote.jpg)
