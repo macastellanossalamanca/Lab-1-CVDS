@@ -1,4 +1,4 @@
-***Andrés Guillermo Rocha Méndez***
+﻿***Andrés Guillermo Rocha Méndez***
 ===========
 
 Información Básica
@@ -77,3 +77,9 @@ def main():
         return main()
 main()
 ```
+
+Tutoriales
+-----
+
+>![Main](Main.png)
+>![Remote](Remote.png)
